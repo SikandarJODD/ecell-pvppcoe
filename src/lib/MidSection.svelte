@@ -36,7 +36,7 @@
 
 					<h2 class="text-gray-800 text-xl font-bold">
 						<a href="/" class="hover:text-indigo-500 active:text-indigo-600 transition duration-100"
-							>Pitch Wars</a
+							>Pitch Wars Stuff</a
 						>
 					</h2>
 
