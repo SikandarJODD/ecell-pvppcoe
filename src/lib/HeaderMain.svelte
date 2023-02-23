@@ -20,7 +20,7 @@
 
 			<div class="mt-4 md:mt-8">
 				<a
-					href="/event"
+					href="/events"
 					class="inline-block rounded bg-cyan-500 px-12 py-3 text-sm border-2 font-medium text-white transition hover:bg-cyan-100 hover:border-2 hover:border-cyan-500 hover:text-cyan-500 focus:outline-none focus:ring focus:ring-cyan-100 xl:text-xl"
 				>
 					Events

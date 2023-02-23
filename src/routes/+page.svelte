@@ -15,7 +15,7 @@
 	<meta
 		name="og:image"
 		itemprop="image"
-		content="https://img.freepik.com/free-vector/cute-baby-penguin-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3770.jpg?w=740&t=st=1676591055~exp=1676591655~hmac=9a7ff300e68fbe82cf78cf8b1f592290d999885d079c7549bda8a655ba78e7e8"
+		content="https://drive.google.com/file/d/1Od2f0RJIPfJkHfIlNGabGAZlhIJOw-iL/view"
 	/>
 </svelte:head>
 

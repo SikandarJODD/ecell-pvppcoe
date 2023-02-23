@@ -3,6 +3,7 @@
 	let showMenu = false;
 	import logoIcon from './logo1.png';
 	import logoName from './logo2.png';
+	import mainLogo from './ecellLogo.png';
 	function toggleNavbar() {
 		showMenu = !showMenu;
 	}
@@ -35,11 +36,14 @@
 	class="border-b-2 border-blue-300 bg-blue-50  px-6 py-3 mx-auto md:flex md:justify-around md:items-center "
 >
 	<div class="flex items-center justify-between">
-		<a
-			class="text-xl font-bold text-gray-800 md:text-2xl hover:text-blue-500 transition-all"
-			href="/"
-			>E-CELL PVPPCOE
-		</a>
+		<div class="flex  items-center">
+			<img src={mainLogo} alt="Main Logo" width="42" class="mx-2 transition-all" />
+			<a
+				class="text-xl font-bold text-gray-800 md:text-2xl hover:text-blue-500 transition-all"
+				href="/"
+				>E-CELL PVPPCOE
+			</a>
+		</div>
 		<!-- Mobile menu button -->
 		<!-- svelte-ignore a11y-click-events-have-key-events -->
 		<div on:click={toggleNavbar} class="flex md:hidden">
